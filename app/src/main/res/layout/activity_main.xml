@@ -31,6 +31,7 @@
             android:paddingStart="15dp"
             android:paddingEnd="15dp"
             android:paddingTop="15dp"
+            android:text=""
             android:textAlignment="textEnd"
             android:textColor="@color/white"
             android:textSize="30sp">
