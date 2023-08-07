@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 input_txt.setText("");
                 result_txt.setText("");
-                result_txt.setText("");
+
             }
         });
 
